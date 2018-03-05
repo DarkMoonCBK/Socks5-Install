@@ -15,7 +15,7 @@ apt-get -y install git wget curl zip unzip screen
 安装
 ---
 ```
-wget https://raw.githubusercontent.com/qinghuas/socks5-install/master/ss5.sh
+wget https://raw.githubusercontent.com/DarkMoonCBK/Socks5-Install/master/ss5.sh
 ```
 ```
 bash ss5.sh
@@ -34,7 +34,7 @@ Socks5 启动 / 停止 / 重启 / 状态
 
 选项预览
 ---
-![](https://raw.githubusercontent.com/DarkMoonCBK/socks5-install/master/ss5-options.png)
+![](https://raw.githubusercontent.com/DarkMoonCBK/Socks5-Install/master/ss5-options.png)
 
  
 
