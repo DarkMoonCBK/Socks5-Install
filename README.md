@@ -34,7 +34,7 @@ Socks5 启动 / 停止 / 重启 / 状态
 
 选项预览
 ---
-![](https://raw.githubusercontent.com/qinghuas/socks5-install/master/ss5-options.png)
+![](https://raw.githubusercontent.com/DarkMoonCBK/socks5-install/master/ss5-options.png)
 
  
 
